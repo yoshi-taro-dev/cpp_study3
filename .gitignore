@@ -1,1 +1,3 @@
 build/
+# 拡張子のない実行ファイル（sample1など）
+/sample1
